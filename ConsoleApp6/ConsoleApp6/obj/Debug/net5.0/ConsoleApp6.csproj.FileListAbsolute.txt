@@ -1,0 +1,16 @@
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.exe
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.deps.json
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.json
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.dev.json
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.dll
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ref\ConsoleApp6.dll
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.pdb
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.AssemblyReference.cache
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfoInputs.cache
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfo.cs
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.dll
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ref\ConsoleApp6.dll
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.pdb
+E:\ggggggggggggggggggggggggg\oop_prozhe\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.genruntimeconfig.cache
